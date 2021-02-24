@@ -46,4 +46,6 @@ Step 2 - If tree is Empty then insert the newNode as Root node with color Black 
 <p>Step 5 - If the parent of newNode is Red then check the color of parentnode's sibling of newNode.</p>
 <p>Step 6 - If it is colored Black or NULL then make suitable Rotation and Recolor it.</p>
 <p>Step 7 - If it is colored Red then perform Recolor. Repeat the same until tree becomes Red Black Tree.</p>
+<h3>Deletion Operation in Red Black Tree</h3>
+<p>The deletion operation in Red-Black Tree is similar to deletion operation in BST. But after every deletion operation, we need to check with the Red-Black Tree properties. If any of the properties are violated then make suitable operations like Recolor, Rotation and Rotation followed by Recolor to make it Red-Black Tree.</p>
 
