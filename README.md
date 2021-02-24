@@ -8,7 +8,7 @@ In an AVL tree, every node maintains an extra information known as balance facto
                
 Example of AVL Tree
 
-![AVL Tree](http://www.btechsmartclass.com/data_structures/ds_images/AVL%20Example.png)
+![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/AVL-Tree.png)
 
 
 
