@@ -54,9 +54,12 @@ Right Left Rotation:
 
 <p>The following operations are performed on AVL tree 
 </p>
-  <p>1.Search</p>
-   <p>2.Insertion</p>
-   <p>3.Deletion</p>
+  <p>1.Search
+</p>
+   <p>2.Insertion
+</p>
+   <p>3.Deletion
+</p>
 - AVL tree is a **height-balanced binary search tree**.
 <p>**Search Operation in AVL Tree**</P
 -In an AVL tree, the search operation is performed with O(log n) time complexity. 
