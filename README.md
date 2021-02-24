@@ -57,8 +57,10 @@ Right Left Rotation:
   <p>1.Search</p>
    <p>2.Insertion</p>
    <p>3.Deletion</p>
-Search Operation in AVL Tree
-In an AVL tree, the search operation is performed with O(log n) time complexity. The search operation in the AVL tree is similar to the search operation in a Binary search tree. We use the following steps to search an element in AVL tree...
+<p>**Search Operation in AVL Tree**</P
+-In an AVL tree, the search operation is performed with O(log n) time complexity. 
+-The search operation in the AVL tree is similar to the search operation in a Binary search tree. 
+We use the following steps to search an element in AVL tree...
 
 Step 1 - Read the search element from the user.
 Step 2 - Compare the search element with the value of root node in the tree.
