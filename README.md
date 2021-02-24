@@ -71,7 +71,9 @@ Right Left Rotation:
 </p>
 
 <h3>Insertion Operation in AVL Tree </h3>
-In an AVL tree, the insertion operation is performed with O(log n) time complexity. In AVL Tree, a new node is always inserted as a leaf node. The insertion operation is performed as follows...
+<p> - In an AVL tree, the insertion operation is performed with O(log n) time complexity. </p>
+<p> -In AVL Tree, a new node is always inserted as a leaf node. </p>
+The insertion operation is performed as follows...
 
 Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.
 Step 2 - After insertion, check the Balance Factor of every node.
