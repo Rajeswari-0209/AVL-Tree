@@ -79,5 +79,7 @@ The insertion operation is performed as follows...
 <p>Step 2 - After insertion, check the Balance Factor of every node.</p>
 <p>Step 3 - If the Balance Factor of every node is 0 or 1 or -1 then go for next operation.</p>
 <p>Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.</p>
+<h3>Deletion Operation in AVL Tree</h3>
+<p>The deletion operation in AVL Tree is similar to deletion operation in BST. But after every deletion operation, we need to check with the Balance Factor condition. If the tree is balanced after deletion go for next operation otherwise perform suitable rotation to make the tree Balanced.</p>
               
 
