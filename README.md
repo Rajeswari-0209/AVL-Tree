@@ -26,7 +26,9 @@ The above tree is a binary search tree and every node is satisfying balance fact
 Left Rotation:
   -In LL Rotation, every node moves one position to left from the current position. 
   </p>
-  ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/AVL-Tree.png)
+  <p>
+  ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/LL-Rotation.png)
+  </p>
   <p>
 Right Rotation:
  -In RR Rotation, every node moves one position to right from the current position.</p>
