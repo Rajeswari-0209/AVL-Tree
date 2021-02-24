@@ -35,4 +35,15 @@ Property 6: Every leaf (e.i. NULL node) must be colored BLACK.
 1. Recolor
 2. Rotation
 3. Rotation followed by Recolor
+<p>
+The insertion operation in Red Black tree is performed using the following steps...</p>
+<p>
+Step 1 - Check whether tree is Empty.</p>
+<p>
+Step 2 - If tree is Empty then insert the newNode as Root node with color Black and exit from the operation.</p>
+<p>Step 3 - If tree is not Empty then insert the newNode as leaf node with color Red.</p>
+<p>Step 4 - If the parent of newNode is Black then exit from the operation.</p>
+<p>Step 5 - If the parent of newNode is Red then check the color of parentnode's sibling of newNode.</p>
+<p>Step 6 - If it is colored Black or NULL then make suitable Rotation and Recolor it.</p>
+<p>Step 7 - If it is colored Red then perform Recolor. Repeat the same until tree becomes Red Black Tree.</p>
 
