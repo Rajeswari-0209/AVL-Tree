@@ -50,7 +50,7 @@ Right Left Rotation:
 
 ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/RL-Rotation.png)
 
-Operations on an AVL Tree
+<p> Operations on an AVL Tree </p>
 -The following operations are performed on AVL tree
    -Search
    -Insertion
