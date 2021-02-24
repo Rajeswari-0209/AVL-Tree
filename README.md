@@ -75,9 +75,9 @@ Right Left Rotation:
 <p> -In AVL Tree, a new node is always inserted as a leaf node. </p>
 The insertion operation is performed as follows...
 
-Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.
-Step 2 - After insertion, check the Balance Factor of every node.
-Step 3 - If the Balance Factor of every node is 0 or 1 or -1 then go for next operation.
-Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.
+<p>Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.</p>
+<p>Step 2 - After insertion, check the Balance Factor of every node.</p>
+<p>Step 3 - If the Balance Factor of every node is 0 or 1 or -1 then go for next operation.</p>
+<p>Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.</p>
               
 
