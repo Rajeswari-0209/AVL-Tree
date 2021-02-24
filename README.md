@@ -55,8 +55,8 @@ Right Left Rotation:
 <p>The following operations are performed on AVL tree 
 </p>
 
-   *Search
-   *Insertion
-   *Deletion
+  <p> * Search</p>
+   Insertion
+   Deletion
               
 
