@@ -9,5 +9,7 @@ Example of AVL Tree
 
 ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/AVL-Tree.png)
 
+The above tree is a binary search tree and every node is satisfying balance factor condition. So this tree is said to be an AVL tree.
+
 
 
