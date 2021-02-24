@@ -24,4 +24,6 @@ Property 6: Every leaf (e.i. NULL node) must be colored BLACK.
   Example of Red-Black Tree
   
   ![Red-Black Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/Red-BlackTree.png)
+  <p>
+  The above tree is a Red-Black tree where every node is satisfying all the properties of Red-Black Tree.</p>
 
