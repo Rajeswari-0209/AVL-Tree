@@ -52,9 +52,9 @@ Right Left Rotation:
 
 <p> Operations on an AVL Tree </p>
 
-*The following operations are performed on AVL tree
-   *Search
-   *Insertion
-   *Deletion
+<p>The following operations are performed on AVL tree </p>
+   -Search
+   -Insertion
+   -Deletion
               
 
