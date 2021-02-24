@@ -4,6 +4,7 @@ A binary tree is said to be balanced if, the difference between the heights of l
 In an AVL tree, every node maintains an extra information known as balance factor. 
                **Balance factor = heightOfLeftSubtree - heightOfRightSubtree**
 Example of AVL Tree
-http://www.btechsmartclass.com/data_structures/ds_images/AVL%20Example.png
+![AVL Tree](http://www.btechsmartclass.com/data_structures/ds_images/AVL%20Example.png)
+
 
 
