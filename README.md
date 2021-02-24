@@ -57,6 +57,7 @@ Right Left Rotation:
   <p>1.Search</p>
    <p>2.Insertion</p>
    <p>3.Deletion</p>
+- AVL tree is a **height-balanced binary search tree**.
 <p>**Search Operation in AVL Tree**</P
 -In an AVL tree, the search operation is performed with O(log n) time complexity. 
 -The search operation in the AVL tree is similar to the search operation in a Binary search tree. 
