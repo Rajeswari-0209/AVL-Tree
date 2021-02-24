@@ -32,6 +32,7 @@ Left Rotation:
   <p>
 Right Rotation:
  -In RR Rotation, every node moves one position to right from the current position.</p>
+ ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/RR-Rotation.png)
  <p>
 Left Right Rotation:
  -In LR Rotation, at first, every node moves one position to the left and one position to right from the current position.</p>
