@@ -13,5 +13,8 @@ The above tree is a binary search tree and every node is satisfying balance fact
 **AVL Tree Rotations**
 - In AVL tree, after performing operations like insertion and deletion we need to check the balance factor of every node in the tree.
 - If every node satisfies the balance factor condition then we conclude the operation otherwise we must make it balanced. 
+- Rotation operations are used to make the tree balanced.
+There are four rotations and they are classified into two types.
+
 
 
