@@ -16,5 +16,7 @@ The above tree is a binary search tree and every node is satisfying balance fact
 - Rotation operations are used to make the tree balanced.
 There are four rotations and they are classified into two types.
 
+![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/Rotations.png)
+
 
 
