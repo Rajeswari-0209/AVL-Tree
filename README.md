@@ -18,8 +18,5 @@ The above tree is a binary search tree and every node is satisfying balance fact
 
 ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/Rotations.png)
 - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
+              
 
