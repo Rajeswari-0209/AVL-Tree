@@ -17,11 +17,12 @@ The above tree is a binary search tree and every node is satisfying balance fact
 <p>There are four rotations and they are classified into two types.</p>
 
 ![AVL Tree](https://github.com/Rajeswari-0209/AVL-Tree/blob/main/Rotations.png)
-- Bullet list
-   -hgghjj
- * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+
+* Single Rotation
+  * Left Rotation (LL Rotation)
+  * Right Rotation (RR Rotation)
+* Double Rotation
+  * Left Right Rotation (LR Rotation)
+  * Right Left Rotation (RL Rotation)
               
 
