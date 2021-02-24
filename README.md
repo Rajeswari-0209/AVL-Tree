@@ -21,7 +21,5 @@ The above tree is a binary search tree and every node is satisfying balance fact
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
-Single Left Rotation (LL Rotation)
--In LL Rotation, every node moves one position to left from the current position. 
- Example LL Rotation
+
 
