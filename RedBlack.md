@@ -30,7 +30,7 @@ Property 6: Every leaf (e.i. NULL node) must be colored BLACK.
   <h3>Insertion into RED BLACK Tree</h3>
   <p>-In a Red-Black Tree, every new node must be inserted with the color RED.</p>
  <p>-The insertion operation in Red Black Tree is similar to insertion operation in Binary Search Tree. But it is inserted with a color property.</p>
- <p>After every insertion operation, we need to check all the properties of Red-Black Tree. If all the properties are satisfied then we go to next operation otherwise we perform the following operation to make it Red Black Tree.</p>
+ <p>-After every insertion operation, we need to check all the properties of Red-Black Tree. If all the properties are satisfied then we go to next operation otherwise we perform the following operation to make it Red Black Tree.</p>
 
 1. Recolor
 2. Rotation
