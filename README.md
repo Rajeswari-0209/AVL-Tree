@@ -62,20 +62,15 @@ Right Left Rotation:
 </p>
 
 <h3> Search Operation in AVL Tree </h3>
+<p>
 -In an AVL tree, the search operation is performed with O(log n) time complexity. 
+  </p>
+  <p>
 -The search operation in the AVL tree is similar to the search operation in a Binary search tree. 
-We use the following steps to search an element in AVL tree...
 
-Step 1 - Read the search element from the user.
-Step 2 - Compare the search element with the value of root node in the tree.
-Step 3 - If both are matched, then display "Given node is found!!!" and terminate the function
-Step 4 - If both are not matched, then check whether search element is smaller or larger than that node value.
-Step 5 - If search element is smaller, then continue the search process in left subtree.
-Step 6 - If search element is larger, then continue the search process in right subtree.
-Step 7 - Repeat the same until we find the exact element or until the search element is compared with the leaf node.
-Step 8 - If we reach to the node having the value equal to the search value, then display "Element is found" and terminate the function.
-Step 9 - If we reach to the leaf node and if it is also not matched with the search element, then display "Element is not found" and terminate the function.
-Insertion Operation in AVL Tree
+</p>
+
+<h3>Insertion Operation in AVL Tree </h3>
 In an AVL tree, the insertion operation is performed with O(log n) time complexity. In AVL Tree, a new node is always inserted as a leaf node. The insertion operation is performed as follows...
 
 Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.
