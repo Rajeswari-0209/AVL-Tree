@@ -21,4 +21,5 @@ Property 5: Every new node must be inserted with RED color.
   <p>
 Property 6: Every leaf (e.i. NULL node) must be colored BLACK.
   </p>
+  Example of Red-Black Tree
 
