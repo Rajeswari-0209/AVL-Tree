@@ -5,8 +5,8 @@
 - Keys may be long and the run time may increase much.
 
 # Improving the efficiency of Binary Tree:
-   AVL Tree (keeping the tree balanced)
-   Radix Tree (Reducing key comparison time)
+  - AVL Tree (keeping the tree balanced)
+  - Radix Tree (Reducing key comparison time)
 
 # AVL-Tree(AVL Stands for Adelson-Velsky and Landis)
 
