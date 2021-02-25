@@ -6,7 +6,6 @@
 
 # Improving the efficiency of Binary Tree
   - AVL Tree (keeping the tree balanced)
-  - Red-Black Tree
 
 # AVL-Tree(AVL Stands for Adelson-Velsky and Landis)
 
