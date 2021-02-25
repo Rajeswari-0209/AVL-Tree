@@ -1,3 +1,13 @@
+# Disadvantages of Binary Search Trees
+- The shape of the tree depends on the order of insertions, and it can be degenerated.
+- When inserting or searching for an element, the key of each visited node has to be compared with the key of the element to be   
+  inserted/found.
+- Keys may be long and the run time may increase much.
+
+# Improving the efficiency of Binary Tree:
+   AVL Tree (keeping the tree balanced)
+   Radix Tree (Reducing key comparison time)
+
 # AVL-Tree(AVL Stands for Adelson-Velsky and Landis)
 
 - AVL tree is a **height-balanced binary search tree**.
