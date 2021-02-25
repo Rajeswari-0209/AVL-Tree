@@ -4,7 +4,7 @@
   inserted/found.
 - Keys may be long and the run time may increase much.
 
-# Improving the efficiency of Binary Tree:
+# Improving the efficiency of Binary Tree
   - AVL Tree (keeping the tree balanced)
   - Red-Black Tree
 
