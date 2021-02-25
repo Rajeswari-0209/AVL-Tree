@@ -6,7 +6,7 @@
 
 # Improving the efficiency of Binary Tree:
   - AVL Tree (keeping the tree balanced)
-  - Radix Tree (Reducing key comparison time)
+  - Red-Black Tree
 
 # AVL-Tree(AVL Stands for Adelson-Velsky and Landis)
 
